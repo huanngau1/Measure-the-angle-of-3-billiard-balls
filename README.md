@@ -3,5 +3,5 @@
 > pip install numpy
 
 ### 2. Change the path to the image file in the program
-![This is an image](/pathFile.png)
+![This is an image](/pathFile.PNG)
 
